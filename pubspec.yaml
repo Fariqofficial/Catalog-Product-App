@@ -1,0 +1,39 @@
+name: catalog_product_app
+description: "A new Flutter project."
+publish_to: "none"
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.8.1
+
+dependencies:
+  flutter:
+    sdk: flutter
+  another_flushbar: ^1.12.32
+  cupertino_icons: ^1.0.8
+  connectivity_plus: ^7.0.0
+  cached_network_image: ^3.4.1
+  dartz: ^0.10.1
+  equatable: ^2.0.7
+  flutter_bloc: ^9.1.1
+  flutter_screenutil: ^5.9.3
+  flutter_dotenv: ^6.0.0
+  google_fonts: ^6.3.2
+  get_it: ^8.2.0
+  http: ^1.5.0
+  intl: ^0.20.2
+  infinite_scroll_pagination: ^4.0.0
+  shared_preferences: ^2.5.3
+  shimmer_animation: ^2.2.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/
+    - .env
