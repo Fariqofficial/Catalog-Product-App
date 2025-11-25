@@ -51,22 +51,28 @@ flutter run
 ```
 
 ## Screenshot Apps
-[List products with infinite scroll pagination]
+List products with infinite scroll pagination
+
 <img width="329" height="719" alt="List Product Screen" src="https://github.com/user-attachments/assets/7d7f164e-aa59-435a-b0fe-2c15ae1cab6f" />
 
-[Search Product by name or description]
+Search Product by name or description
+
 <img width="329" height="719" alt="search products" src="https://github.com/user-attachments/assets/bcf69b39-5386-4bbf-a5c5-39f9672be7ed" />
 
-[Detail product]
+Detail product
+
 <img width="329" height="719" alt="detail products" src="https://github.com/user-attachments/assets/98dc91ca-78f1-4dc3-9a8b-ae885c5277ec" />
 
-[Add to cart feature]
+Add to cart feature
+
 <img width="329" height="719" alt="Add To Cart Features" src="https://github.com/user-attachments/assets/06c4e9ee-c499-4305-9e7f-1d376804b7ab" />
 
-[List cart]
+List cart
+
 <img width="329" height="719" alt="List Product Cart" src="https://github.com/user-attachments/assets/b8095459-1d00-4b92-8750-97400765041b" />
 
-[Delete multiple or single items]
+Delete multiple or single items
+
 <img width="329" height="719" alt="List Product Cart" src="https://github.com/user-attachments/assets/d4972afa-b046-4795-88fe-796ca3e6bf25" />
 
 <img width="329" height="719" alt="Delete Multiple Items" src="https://github.com/user-attachments/assets/35d01c78-b68d-458d-9e1c-2df888de960e" />
